@@ -1,4 +1,4 @@
-# Your Project Name
+# Game API
 
 ## Table of Contents
 1. [User Registration and Authentication](#user-registration-and-authentication)
